@@ -1,613 +1,577 @@
-# vibe-coding-course
+# Vibe Coding with AI 🤖
 
-# 🚀 Vibe Coding with AI
+## Build Your Own Application with AI
 
-## Build, Deploy & Manage Real-World Applications
-
-A practical, hands-on course that teaches students how to use AI-assisted Vibe Coding to build real-world business applications — from idea and requirements through development, testing, deployment and maintenance.
-
----
-
-## 📚 Course Overview
-
-**Duration:** 6 Months
-**Classes:** 24
-**Classes per Month:** 4
-**Duration per Class:** 1.5 Hours
-**Total Training:** 36 Hours
-**Delivery:** Face-to-Face, Instructor-Led
-**Approach:** 20% Explanation + 80% Hands-On Practice
+* Age Group: 10–17
+* Duration: 2 Months
+* Classes: 8
+* Classes per Month: 4
+* Duration per Class: 1.5 Hours
+* Total Learning Hours: 12 Hours
+* Fee: RM120/month
+* Total Program Fee: RM240
+* Delivery: Face-to-Face, Instructor-Led, Hands-On
 
 ---
 
-# 🎯 Learning Objectives
+# 1. Course Purpose
 
-By the end of this course, students will be able to:
+This course introduces students to **AI-assisted application creation** through Vibe Coding.
 
-* Understand AI-assisted Vibe Coding.
-* Convert business requirements into application requirements.
-* Use AI to generate and modify application code.
-* Build professional web application interfaces.
-* Design and connect databases.
-* Implement CRUD functionality.
-* Implement authentication and role-based access control.
-* Use AI to debug and improve applications.
-* Perform functional and security testing.
-* Use GitHub for version control.
-* Containerize applications using Docker.
-* Deploy applications.
-* Implement basic backup and recovery procedures.
-* Maintain and improve AI-built applications.
+Students learn how to take an idea, explain it to AI, create an application, test it, improve it, and present the final result.
+
+The course is focused on **learning by building**, not learning programming theory.
+
+### Learning Journey
+
+**IDEA → PLAN → PROMPT → BUILD → TEST → IMPROVE → PRESENT**
 
 ---
 
-# 🛠️ Tools & Technologies
+# 2. Course Objectives
 
-Students will work with modern development tools including:
+By the end of the course, students should be able to:
 
-* Google AI Studio
-* GitHub
-* Git
-* Visual Studio Code
-* React
-* TypeScript
-* Node.js
-* PostgreSQL
-* Docker
-* Web browsers
-* AI-assisted development tools
+* Understand what AI can do
+* Understand the concept of Vibe Coding
+* Turn an idea into an application concept
+* Write simple instructions/prompts for AI
+* Create a basic application using AI
+* Design simple application screens
+* Add basic application functionality
+* Work with simple data
+* Test an application
+* Identify simple errors
+* Use AI to help fix problems
+* Understand basic GitHub usage
+* Present their completed application
 
 ---
 
-# 📖 Course Structure
+# 3. What Students Will Build
 
-## Section 1 — Introduction to Vibe Coding
+Every student creates **one small working application** during the course.
 
-### Class 1 — Introduction to Vibe Coding
+Examples:
 
+### Beginner Projects
+
+* Homework Tracker
+* To-Do List
+* Quiz Application
+* School Timetable
+* Book Tracker
+* Sports Score Tracker
+
+### Intermediate Projects
+
+* Study Planner
+* Club Management
+* Event Registration
+* Library Tracker
+* Student Task Manager
+* Simple Inventory
+
+### Advanced Student Projects
+
+* IT Helpdesk
+* Appointment System
+* Small Business Inventory
+* Booking System
+* Order Management
+* Student Management
+
+The instructor controls the project complexity according to the student's age and ability.
+
+---
+
+# 4. Teaching Method
+
+Each 90-minute class follows:
+
+| Time      | Activity                  |
+| --------- | ------------------------- |
+| 0–10 min  | Review previous class     |
+| 10–25 min | New concept               |
+| 25–60 min | Instructor demonstration  |
+| 60–80 min | Student hands-on activity |
+| 80–90 min | Review and task           |
+
+### Training Ratio
+
+**20% Explanation**
+**80% Practical**
+
+The objective is for every student to **build something during every class**.
+
+---
+
+# MONTH 1 — IDEA TO WORKING APPLICATION
+
+## Class 1 — Introduction to AI & Vibe Coding
+
+### Topics
+
+* What is Artificial Intelligence?
+* How people use AI today
 * What is Vibe Coding?
-* AI as a development partner
-* AI-assisted software development
-* Course workflow
-* Final project overview
+* How AI can help create applications
+* AI as a development assistant
+* What AI can and cannot do
+* Responsible use of AI
+* Do not share passwords with AI.
+* Do not share private information.
+* Do not copy blindly.
+* Check AI-generated results.
+* Understand what AI produces.
+* Respect copyright.
+* Use AI as a learning and creation tool.
+* Ask for help when something is unclear.
 
-### Class 2 — What is Vibe Coding?
+### Demonstration
 
-* Vibe Coding vs traditional coding
-* Natural-language development
-* Benefits and limitations
-* Human + AI development workflow
+Instructor demonstrates:
 
-### Class 3 — Vibe Coding Tools
+> "I want to create a homework tracker for students."
 
-* Google AI Studio
-* GitHub
-* Development environments
-* Databases
-* Deployment platforms
-* How the tools work together
+AI helps transform the idea into a basic application.
 
-### Class 4 — Course Project & Requirements
+### Student Activity
 
-* Business problem
-* Users
-* Roles
-* Modules
-* Workflow
-* Application requirements
+Students:
 
----
+* Choose an application idea
+* Describe what their application should do
+* Ask AI questions
+* Create their first simple application
 
-# Section 2 — Requirements & Application Planning
+### Student Output
 
-### Class 5 — From Idea to Application
-
-* Business requirements
-* Functional requirements
-* Non-functional requirements
-* Stakeholders
-* Application scope
-
-### Class 6 — Users & Roles
-
-* User types
-* Administrator
-* Standard users
-* Approval roles
-* Permissions
-
-### Class 7 — Application Modules
-
-* Dashboard
-* Master data
-* Transactions
-* Reports
-* Administration
-* Notifications
-* Audit trail
-
-### Class 8 — Writing Requirements for AI
-
-* Writing clear requirements
-* Removing ambiguity
-* Giving AI context
-* Acceptance criteria
-* Creating the project requirements document
+**Project Idea + First AI-Generated Application**
 
 ---
 
-# Section 3 — Building Your First Vibe Coding Application
-
-### Class 9 — Creating the First Application
-
-* Start with requirements
-* Create the first AI prompt
-* Generate application
-* Run application
-* Review generated project
-
-### Class 10 — Understanding Generated Code
-
-* Project structure
-* Components
-* Pages
-* Services
-* Configuration
-* Dependencies
-
-### Class 11 — Improving the Application
-
-* Add functionality
-* Modify existing functionality
-* Improve UI
-* Test changes
-
-### Class 12 — Iterative Vibe Coding
-
-* Plan
-* Prompt
-* Generate
-* Review
-* Test
-* Improve
-* Commit
-
----
-
-# Section 4 — User Interface Development
-
-### Class 13 — Application Layout
-
-* Navigation
-* Sidebar
-* Header
-* Dashboard
-* Responsive design
-
-### Class 14 — Forms
-
-* Text fields
-* Dropdowns
-* Dates
-* Required fields
-* Validation
-* Error messages
-
-### Class 15 — Tables & Data
-
-* Data tables
-* Search
-* Filtering
-* Sorting
-* Pagination
-* Export
-
-### Class 16 — Professional UI Design
-
-* Usability
-* Information hierarchy
-* Consistency
-* Responsive design
-* Business application design
-
----
-
-# Section 5 — Database & Data Management
-
-### Class 17 — Database Fundamentals
-
-* Databases
-* Tables
-* Columns
-* Primary keys
-* Relationships
-* Records
-
-### Class 18 — Database Design
-
-* Master data
-* Transaction data
-* User data
-* Audit data
-* Relationships
-
-### Class 19 — Connecting the Application
-
-* Database configuration
-* API communication
-* Reading data
-* Writing data
-
-### Class 20 — CRUD Operations
-
-* Create
-* Read
-* Update
-* Delete
-* Validation
-* Error handling
-
----
-
-# Section 6 — Authentication & Security
-
-### Class 21 — Authentication
-
-* Login
-* Logout
-* User identity
-* Sessions
-* Authentication flow
-
-### Class 22 — Role-Based Access Control
-
-* Roles
-* Permissions
-* Page-level access
-* Function-level access
-* Administrative access
-
-### Class 23 — Application Security
-
-* Input validation
-* Password security
-* API security
-* Environment variables
-* Secrets management
-
-### Class 24 — Security Testing
-
-* Security review with AI
-* Identify vulnerabilities
-* Fix security issues
-* Retest application
-
----
-
-# Section 7 — Prompt Engineering
+# Class 2 — From Idea to Application Plan
 
 ### Topics
 
-* Writing effective AI prompts
-* Providing context
-* Defining requirements
-* Setting constraints
-* Defining expected output
-* Modification prompts
-* Debugging prompts
-* Security prompts
-* Testing prompts
+* What problem are we solving?
+* Who will use the application?
+* What should the application do?
+* What screens are required?
+* What information needs to be stored?
+* Simple application workflow
 
-### Vibe Coding Workflow
+### Example
 
-```text
-PLAN
-  ↓
-PROMPT
-  ↓
-GENERATE
-  ↓
-REVIEW
-  ↓
-TEST
-  ↓
-FIX
-  ↓
-COMMIT
-  ↓
-REPEAT
-```
+**Homework Tracker**
+
+User:
+
+Student
+
+Screens:
+
+* Home
+* Add Homework
+* Homework List
+* Completed Homework
+
+### Student Activity
+
+Students create:
+
+* Project name
+* Problem statement
+* Target user
+* Main features
+* Screens
+* Basic workflow
+
+### Student Output
+
+**Simple Application Plan**
 
 ---
 
-# Section 8 — Debugging AI-Generated Applications
+# Class 3 — Build Your First Application
 
 ### Topics
 
-* Compile errors
-* Runtime errors
-* Database errors
-* API errors
-* Authentication errors
-* Browser console
-* Server logs
-* Database logs
-* Deployment logs
+* Giving AI a clear instruction
+* Creating the application
+* Understanding generated results
+* Running the application
+* Making changes using AI
 
-### AI Debugging Process
+### Prompt Structure
 
-```text
-ERROR
-  ↓
-CAPTURE ERROR
-  ↓
-PROVIDE CONTEXT
-  ↓
-ASK AI
-  ↓
-IDENTIFY ROOT CAUSE
-  ↓
-APPLY FIX
-  ↓
-TEST
-```
+Students learn:
+
+**WHAT + WHO + FEATURES + DESIGN + EXPECTED RESULT**
+
+Example:
+
+> Create a simple homework tracker for students aged 10–17. It should allow students to add homework, select a subject, enter a due date and mark homework as completed.
+
+### Student Activity
+
+Students build their first project version.
+
+### Student Output
+
+**Working Application Version 1**
 
 ---
 
-# Section 9 — GitHub & Version Control
+# Class 4 — Improve Your Application
 
 ### Topics
 
-* Why version control matters
-* GitHub repositories
-* Commits
-* Push
-* Pull
-* Version history
-* Branch basics
-* Backup before major changes
-* Restoring previous versions
-* Working safely with AI
+* Improving application design
+* Adding buttons
+* Improving navigation
+* Adding forms
+* Improving readability
+* Adding simple features
+* Giving AI better instructions
+
+### Student Activity
+
+Students improve their application.
+
+For example:
+
+Version 1:
+
+> Add homework
+
+Version 2:
+
+> Add homework + subject + due date + completed status
+
+### Student Output
+
+**Working Application Version 2**
 
 ---
 
-# Section 10 — Application Testing
+# MONTH 1 CHECKPOINT
 
-### Functional Testing
+At the end of Month 1, every student should have:
 
-* Login
-* Create
-* Read
-* Update
-* Delete
-* Search
-* Filtering
-
-### Validation Testing
-
-* Required fields
-* Invalid data
-* Duplicate data
-* Boundary conditions
-
-### Security Testing
-
-* Authentication
-* Authorization
-* Permissions
-* Session handling
-* Input validation
-
-### AI-Assisted Testing
-
-* Generate test cases
-* Identify edge cases
-* Create test scenarios
-* Review application quality
+* [ ] Project idea
+* [ ] Defined users
+* [ ] Basic requirements
+* [ ] Application screens
+* [ ] Working application
+* [ ] Basic functionality
+* [ ] Improved UI
+* [ ] Version 2 of the project
 
 ---
 
-# Section 11 — Application Deployment
+# MONTH 2 — TEST, IMPROVE & PRESENT
+
+## Class 5 — Add Useful Features
 
 ### Topics
 
-* Development vs Production
-* Production configuration
-* Environment variables
-* Installing dependencies
-* Application build
-* Production files
-* Deployment process
+* What makes an application useful?
+* Adding functionality
+* Improving forms
+* Improving data display
+* Simple validation
+* Improving the user experience
+
+### Example
+
+Homework Tracker:
+
+Before:
+
+> Add homework
+
+After:
+
+> Add homework
+> Subject
+> Due date
+> Priority
+> Completed status
+
+### Student Activity
+
+Students select 1–3 additional features and ask AI to implement them.
+
+### Student Output
+
+**Application Version 3**
 
 ---
 
-# Section 12 — Docker Deployment
+# Class 6 — Testing & Debugging with AI
 
 ### Topics
 
-* What is Docker?
-* Docker images
-* Docker containers
-* Dockerfile
-* Environment variables
-* Ports
-* Volumes
-* Building an image
-* Running a container
+* What is testing?
+* How to find problems
+* What is an error?
+* How to describe an error to AI
+* Using screenshots
+* Using error messages
+* Testing different scenarios
+* Avoiding blindly accepting AI fixes
 
-### Deployment Workflow
+### Simple Testing Process
 
-```text
-APPLICATION
-     ↓
-BUILD
-     ↓
-DOCKER IMAGE
-     ↓
-CONTAINER
-     ↓
-DEPLOY
-     ↓
-TEST
-```
+**TRY → FIND PROBLEM → CAPTURE ERROR → ASK AI → FIX → TEST AGAIN**
+
+### Student Activity
+
+Students test their own application.
+
+Example:
+
+> "When I click Add Homework, nothing happens."
+
+Students learn to give AI:
+
+* What they were doing
+* What they expected
+* What actually happened
+* Error message/screenshot
+
+### Student Output
+
+**Tested and Improved Application**
 
 ---
 
-# Section 13 — Production Support & Maintenance
+# Class 7 — GitHub & Project Preparation
 
 ### Topics
 
-* Application monitoring
-* Availability
-* Error monitoring
-* Logs
-* Performance
-* Application backup
-* Database backup
-* Configuration backup
-* Restore testing
-* Disaster recovery basics
-* Updating applications
-* Dependency updates
-* Rollback
-* Incident management
-* Root-cause analysis
+* What is GitHub?
+* Why save projects?
+* Basic repository concept
+* Saving project versions
+* Basic GitHub safety
+* Never publish passwords or API keys
+* Preparing a project demonstration
+
+### Student Activity
+
+Students:
+
+* Create/prepare GitHub repository
+* Upload project
+* Review project
+* Prepare presentation
+
+### Presentation Structure
+
+Students explain:
+
+1. My project
+2. The problem
+3. Who uses it
+4. How it works
+5. What AI helped me create
+6. What problems I found
+7. How I improved it
+
+### Student Output
+
+**GitHub Project + Presentation Preparation**
 
 ---
 
-# Section 14 — Complete Real-World Application
+# Class 8 — Final Project Demonstration
 
-Students will bring all previous topics together to build a complete business application.
+## Final Project Day
 
-### Project Lifecycle
+Each student demonstrates their application.
 
-```text
-BUSINESS IDEA
-      ↓
-REQUIREMENTS
-      ↓
-APPLICATION DESIGN
-      ↓
-DATABASE DESIGN
-      ↓
-VIBE CODING
-      ↓
-AUTHENTICATION
-      ↓
-BUSINESS LOGIC
-      ↓
-SECURITY
-      ↓
-TESTING
-      ↓
-GITHUB
-      ↓
-DOCKER
-      ↓
-DEPLOYMENT
-      ↓
-BACKUP & RECOVERY
-```
+### Student Presentation
+
+**3–5 minutes**
+
+1. Project name
+2. Problem being solved
+3. Target user
+4. Application demonstration
+5. Main features
+6. How AI was used
+7. What they learned
+
+### Instructor Questions
+
+Simple questions such as:
+
+* What does your application do?
+* Who would use it?
+* Which feature did you create?
+* What problem did you have?
+* How did AI help you?
+* What would you improve next?
+
+### Final Output
+
+**Completed Working Application + Student Presentation**
 
 ---
 
-# 🏆 Final Project
+# 5. Final Project Requirements
 
-Every student must build and demonstrate a working real-world application.
+Every student should have:
 
-## Minimum Requirements
-
-* [ ] Login
-* [ ] At least 2 user roles
-* [ ] Dashboard
-* [ ] Master data
-* [ ] Transaction module
-* [ ] Database
-* [ ] CRUD operations
-* [ ] Search
-* [ ] Filtering
-* [ ] Validation
-* [ ] Role-based access
-* [ ] Audit information
-* [ ] Error handling
+* [ ] Project name
+* [ ] Clear purpose
+* [ ] At least 2–3 screens
+* [ ] Working navigation
+* [ ] At least one input form
+* [ ] Data display
+* [ ] Basic functionality
+* [ ] Basic validation
+* [ ] Tested application
+* [ ] At least one improvement based on testing
 * [ ] GitHub repository
-* [ ] Testing
-* [ ] Docker deployment
-* [ ] Backup procedure
+* [ ] Final demonstration
 
 ---
 
-# 📋 Student Project Checklist
+# 6. What Is NOT Required
 
-## Planning
+To keep this course suitable for 10–17-year-olds, the following are **not required**:
 
-* [ ] Business problem
-* [ ] Project objective
-* [ ] Users
-* [ ] Roles
-* [ ] Modules
-* [ ] Workflow
-* [ ] Requirements
+* Advanced programming
+* Complex SQL
+* Advanced database architecture
+* Advanced cybersecurity
+* Docker
+* Kubernetes
+* CI/CD
+* Cloud architecture
+* Enterprise infrastructure
+* Complex APIs
+* Production server administration
 
-## Development
-
-* [ ] Application created
-* [ ] UI completed
-* [ ] Forms completed
-* [ ] Database connected
-* [ ] CRUD completed
-* [ ] Business logic completed
-
-## Security
-
-* [ ] Authentication
-* [ ] Authorization
-* [ ] Role-based access
-* [ ] Input validation
-* [ ] Secrets protected
-* [ ] Security review
-
-## Testing
-
-* [ ] Functional testing
-* [ ] Validation testing
-* [ ] Security testing
-* [ ] Error testing
-* [ ] UAT
-* [ ] Defects fixed
-
-## Deployment
-
-* [ ] Production build
-* [ ] Docker image
-* [ ] Docker container
-* [ ] Environment configuration
-* [ ] Deployment verification
-
-## Operations
-
-* [ ] Application backup
-* [ ] Database backup
-* [ ] Configuration backup
-* [ ] Restore test
-* [ ] Recovery procedure
-
-## Final
-
-* [ ] Documentation completed
-* [ ] Application completed
-* [ ] Final testing completed
-* [ ] Presentation prepared
-* [ ] Final demonstration completed
+These can be introduced in a future advanced course.
 
 ---
 
-# 🎓 Final Learning Outcome
+# 7. Responsible AI
 
-Students will complete the course with practical experience in:
+Students will learn basic AI responsibility:
 
-**AI-Assisted Development + Application Development + Database + Security + Testing + GitHub + Docker + Deployment + Production Support**
+### Never
 
-The objective is not simply to learn how to ask AI to write code.
+* Share passwords with AI
+* Share private information
+* Share personal information about other people
+* Copy AI output without understanding it
+* Assume AI is always correct
 
-The objective is to learn how to use AI as a development partner to **build, understand, test, deploy and maintain real-world applications.**
+### Always
+
+* Review AI output
+* Test what AI creates
+* Ask questions when something is unclear
+* Protect private information
+* Give credit where appropriate
+
+---
+
+# 8. Student Progress Tracking
+
+| Student   | Idea | Plan | App V1 | App V2 | Features | Testing | GitHub | Final |
+| --------- | ---- | ---- | ------ | ------ | -------- | ------- | ------ | ----- |
+| Student 1 | ✓    | ✓    | ✓      | ✓      | ✓        | ✓       | ✓      | ✓     |
+| Student 2 | ✓    | ✓    | ✓      | ⚠      | ⚠        |         |        |       |
+| Student 3 | ✓    | ✓    | ✓      | ✓      | ✓        | ⚠       |        |       |
+
+**✓ Completed**
+**⚠ In Progress**
+**Blank = Not Started**
+
+---
+
+# 9. Course Completion
+
+A student completes the course when they can:
+
+> **Explain an idea → use AI to build it → test it → improve it → present it.**
+
+The goal is not to make students professional programmers in two months.
+
+The goal is to make them **confident technology creators who know how to use AI responsibly to build something of their own.**
+
+---
+
+# 10. Complete 8-Class Summary
+
+| Class | Main Focus            | Deliverable                     |
+| ----- | --------------------- | ------------------------------- |
+| **1** | AI & Vibe Coding      | Project idea + first experiment |
+| **2** | Planning              | Application plan                |
+| **3** | Building              | Working App V1                  |
+| **4** | Improving             | Working App V2                  |
+| **5** | Features              | Working App V3                  |
+| **6** | Testing & Debugging   | Tested application              |
+| **7** | GitHub & Presentation | Project repository              |
+| **8** | Final Demonstration   | Completed project               |
+
+---
+
+# 11. Overall Student Journey
+
+### Week 1
+
+**"I have an idea."**
+
+↓
+
+### Week 2
+
+**"I know what my application should do."**
+
+↓
+
+### Week 3
+
+**"AI helped me build it."**
+
+↓
+
+### Week 4
+
+**"I improved my application."**
+
+↓
+
+### Week 5
+
+**"My application can do more."**
+
+↓
+
+### Week 6
+
+**"I found and fixed problems."**
+
+↓
+
+### Week 7
+
+**"My project is ready."**
+
+↓
+
+### Week 8
+
+**"I built it and I can demonstrate it."**
+
+# Final Course Message
+
+**Don't just use technology. Learn how to create with it.**
