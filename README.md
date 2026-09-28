@@ -457,7 +457,6 @@ To keep this course suitable for 10–17-year-olds, the following are **not requ
 * Complex APIs
 * Production server administration
 
-These can be introduced in a future advanced course.
 
 ---
 
