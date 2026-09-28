@@ -48,10 +48,94 @@
 → Student continues with **Classes 5–8**.
 
 ### 6. Course Completion
-
 → Student completes the final project.
 → Student demonstrates the application.
-→ Student receives **course completion recognition**.
+→ Student receives course completion recognition.
+
+---
+# Student Prerequisites
+
+No prior programming or coding experience is required.
+
+Students should have the following before attending the course:
+
+## Required
+
+* 💻 **Laptop / Computer**
+
+  * Each student should have their own laptop or computer.
+  * Windows 10/11, macOS, or Chromebook is suitable.
+  * Bring the laptop and charger to every class.
+
+* 🌐 **Stable Internet Connection**
+
+  * Internet access is required during every class.
+  * AI tools and online development platforms require an active internet connection.
+
+* 🔐 **Google Account**
+
+  * A Google account is required for accessing the AI and development tools used during the course.
+  * Students should have access to their account before the first class.
+
+* 🌐 **Modern Web Browser**
+
+  * Google Chrome, Microsoft Edge, Safari, or another current browser.
+  * Google Chrome is recommended.
+
+* ⌨️ **Basic Computer Skills**
+  Students should be able to:
+
+  * Use a keyboard and mouse/touchpad
+  * Open and use a web browser
+  * Type and edit text
+  * Create and open files
+  * Navigate basic folders
+
+* 📧 **Email Access**
+
+  * Students should have access to an email account for account verification and course communication.
+
+## Recommended
+
+* 🖱️ Physical mouse
+* 🔌 Laptop charger
+* 🎧 Headphones
+* 💾 At least 5 GB of available storage
+* 🔋 Fully charged laptop before class
+
+## No Previous Coding Experience Required
+
+Students do **not** need prior knowledge of:
+
+* Programming
+* Web development
+* Databases
+* Git
+* GitHub
+* APIs
+* Cybersecurity
+* Software development
+
+The course starts from the basics and uses AI-assisted development to help students build their own application.
+
+## Parent / Guardian Requirement
+
+For students aged **10–17**, parents or guardians may need to assist with:
+
+* Creating required accounts
+* Account verification
+* Platform permissions
+* Reviewing applicable terms and conditions
+* Ensuring the student follows safe and responsible AI usage
+
+Students must not bypass age restrictions or platform account requirements.
+
+## Important
+
+Students should **never share passwords, API keys, private information, or sensitive personal information with AI tools**.
+
+The objective of this course is to teach students how to use AI as a **responsible learning and creation tool**.
+
 
 ---
 
