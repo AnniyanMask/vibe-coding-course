@@ -11,7 +11,7 @@
 * Fee: RM140/month
 * Payment Date: 
 * Total Program Fee: RM280
-* Delivery: Face-to-Face, Instructor-Led, Hands-On
+* Delivery: Face-to-Face, Instructor-Led, Hands-On.
 ---
 ## 💳 Payment Structure
 
