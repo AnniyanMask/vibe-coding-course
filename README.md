@@ -8,18 +8,19 @@
 * Classes per Month: 4
 * Duration per Class: 1.5 Hours
 * Total Learning Hours: 12 Hours
-* Fee: RM140/month
+* Fee: RM120/month
 * Payment Date: 
-* Total Program Fee: RM280
-* Delivery: Face-to-Face, Instructor-Led, Hands-On.
+* Total Program Fee: RM240
+* Delivery: Online, Instructor-Led, Hands-On.
+* PERSONAL CLASS: On Request 
 ---
 ## 💳 Payment Structure
 
 | Month                |   Payment | Payment Due    |
 | -------------------- | --------: | -------------- |
-| **Month 1**          | **RM140** | Before Class 1 |
-| **Month 2**          | **RM140** | Before Class 5 |
-| **Total Course Fee** | **RM280** | 2 Months       |
+| **Month 1**          | **RM120** | Before Class 1 |
+| **Month 2**          | **RM120** | Before Class 5 |
+| **Total Course Fee** | **RM240** | 2 Months       |
 
 ---
 
@@ -31,7 +32,7 @@
 
 ### 2. Month 1 Payment
 
-→ Parent/Guardian pays **RM140**.
+→ Parent/Guardian pays **RM120**.
 → Payment confirms the student's place for **Month 1**.
 
 ### 3. Month 1 Classes
@@ -44,7 +45,7 @@
 
 ### 5. Month 2 Payment
 
-→ Parent/Guardian pays **RM140**.
+→ Parent/Guardian pays **RM120**.
 → Student continues with **Classes 5–8**.
 
 ### 6. Course Completion
