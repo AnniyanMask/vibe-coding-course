@@ -6,8 +6,8 @@
 * Duration: 2 Months
 * Total Classes: 8
 * Classes per Month: 4
-* Duration per Class: 1.5 Hours
-* Total Learning Hours: 12 Hours
+* Duration per Class: 1 Hour
+* Total Learning Hours: 8 Hours
 * Fee: RM120/month
 * Payment Date: 
 * Total Program Fee: RM240
@@ -217,11 +217,11 @@ Each 90-minute class follows:
 
 | Time      | Activity                  |
 | --------- | ------------------------- |
-| 0–10 min  | Review previous class     |
-| 10–25 min | New concept               |
-| 25–60 min | Instructor demonstration  |
-| 60–80 min | Student hands-on activity |
-| 80–90 min | Review and task           |
+| 0–5 min   | Review previous class     |
+| 5–15 min  | New concept               |
+| 15–35 min | Instructor demonstration  |
+| 35–55 min | Student hands-on activity |
+| 55–60 min | Review and task           |
 
 ### Training Ratio
 
