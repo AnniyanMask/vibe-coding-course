@@ -6,11 +6,11 @@
 * Duration: 2 Months
 * Total Classes: 8
 * Classes per Month: 4
-* Duration per Class: 1 Hour
+* Duration per Class: 1.5 Hour
 * Total Learning Hours: 8 Hours
-* Fee: RM120/month
+* Fee: RM160/month
 * Payment Date: 
-* Total Program Fee: RM240
+* Total Program Fee: RM320
 * Delivery: Online, Instructor-Led, Hands-On.
 * PERSONAL CLASS: On Request 
 ---
@@ -18,9 +18,9 @@
 
 | Month                |   Payment | Payment Due    |
 | -------------------- | --------: | -------------- |
-| **Month 1**          | **RM120** | Before Class 1 |
-| **Month 2**          | **RM120** | Before Class 5 |
-| **Total Course Fee** | **RM240** | 2 Months       |
+| **Month 1**          | **RM160** | Before Class 1 |
+| **Month 2**          | **RM160** | Before Class 5 |
+| **Total Course Fee** | **RM320** | 2 Months       |
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### 2. Month 1 Payment
 
-→ Parent/Guardian pays **RM120**.
+→ Parent/Guardian pays **RM160**.
 → Payment confirms the student's place for **Month 1**.
 
 ### 3. Month 1 Classes
@@ -45,7 +45,7 @@
 
 ### 5. Month 2 Payment
 
-→ Parent/Guardian pays **RM120**.
+→ Parent/Guardian pays **RM160**.
 → Student continues with **Classes 5–8**.
 
 ### 6. Course Completion
@@ -217,11 +217,11 @@ Each 90-minute class follows:
 
 | Time      | Activity                  |
 | --------- | ------------------------- |
-| 0–5 min   | Review previous class     |
-| 5–15 min  | New concept               |
-| 15–35 min | Instructor demonstration  |
-| 35–55 min | Student hands-on activity |
-| 55–60 min | Review and task           |
+| 0–10 min  | Review previous class     |
+| 10–25 min | New concept               |
+| 25–60 min | Instructor demonstration  |
+| 60–80 min | Student hands-on activity |
+| 80–90 min | Review and task           |
 
 ### Training Ratio
 
