@@ -4,7 +4,7 @@
 
 * Age Group: 10–17 years old
 * Duration: 2 Months
-* Classes: 8
+* Total Classes: 8
 * Classes per Month: 4
 * Duration per Class: 1.5 Hours
 * Total Learning Hours: 12 Hours
